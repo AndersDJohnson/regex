@@ -12,7 +12,9 @@ to:
 $1\\"$2
 ```
 
-## JS Arrow Function Single Argument
+## JS Arrow Function Single Argument With Parentheses
+
+Remove the parentheses around single arguments in arrow functions.
 
 ```
 \(([^\(\)\{\},=]+)\)(\s*=>)
